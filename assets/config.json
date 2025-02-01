@@ -1,0 +1,32 @@
+{
+    "number": 5554,
+    "name": "The Poros Robotics",
+    "drivetrain": "Swerve",
+    "dimensions": "76x76cm",
+    "weight": 125,
+    "abilities": {
+      "Coral": [
+        {"ability": "Scores on L1", "capable": true},
+        {"ability": "Scores on L2", "capable": true},
+        {"ability": "Scores on L3", "capable": false},
+        {"ability": "Scores on L4", "capable": true},
+        {"ability": "Intakes from human player", "capable": true},
+        {"ability": "Intakes from floor", "capable": false}
+      ],
+      "Algae": [
+        {"ability": "Can remove algae from between L2 and L3", "capable": true},
+        {"ability": "Can remove algae from between L3 and L4", "capable": false},
+        {"ability": "Can score algae in processor", "capable": true},
+        {"ability": "Can score algae in net", "capable": true},
+        {"ability": "Intakes from reef", "capable": false},
+        {"ability": "Intakes from floor", "capable": true}
+      ],
+      "Climb": [
+        {"ability": "Shallow climb", "capable": true},
+        {"ability": "Deep climb", "capable": false}
+      ]
+    },
+    "imageUrl": "https://placehold.co/400x300.png",
+    "imagePath": "D:/Downloads/kraken.png"
+}
+  
