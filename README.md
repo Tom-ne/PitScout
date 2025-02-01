@@ -1,16 +1,13 @@
-# pitscout
+# Pit Scout  
 
-A new Flutter project.
+Pit Scout is an application designed to display technical pit scouting data on your pit display.  
 
-## Getting Started
+## Getting Started  
 
-This project is a starting point for a Flutter application.
+1. Download the latest release as a ZIP file.  
+2. For customization, follow [this guide](https://github.com/Tom-ne/PitScout/blob/master/tutorialVids/config_guide.gif).  
 
-A few resources to get you started if this is your first Flutter project:
+## Features  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Easy customization** – Modify the display to fit your team's needs.  
+- **Image support** – Display images from the internet or local storage.  
